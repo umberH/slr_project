@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ambreen.hanif/Github/slr_project/experiments/mlruns/1/81173da18ebe4b3cba1c891fce600c3f/artifacts
+end_time: 1694765153223
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81173da18ebe4b3cba1c891fce600c3f
+run_name: Extra Trees Regressor
+run_uuid: 81173da18ebe4b3cba1c891fce600c3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694765153000
+status: 3
+tags: []
+user_id: ambreen.hanif

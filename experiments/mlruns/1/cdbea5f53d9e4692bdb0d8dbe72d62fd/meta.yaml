@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ambreen.hanif/Github/slr_project/experiments/mlruns/1/cdbea5f53d9e4692bdb0d8dbe72d62fd/artifacts
+end_time: 1694765155525
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cdbea5f53d9e4692bdb0d8dbe72d62fd
+run_name: Huber Regressor
+run_uuid: cdbea5f53d9e4692bdb0d8dbe72d62fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694765155346
+status: 3
+tags: []
+user_id: ambreen.hanif

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ambreen.hanif/Github/slr_project/experiments/mlruns/1/4243d55931024f5abc689d542392f02a/artifacts
+end_time: 1694765151779
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4243d55931024f5abc689d542392f02a
+run_name: Light Gradient Boosting Machine
+run_uuid: 4243d55931024f5abc689d542392f02a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694765151548
+status: 3
+tags: []
+user_id: ambreen.hanif

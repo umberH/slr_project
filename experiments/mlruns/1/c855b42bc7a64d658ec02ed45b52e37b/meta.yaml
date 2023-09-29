@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ambreen.hanif/Github/slr_project/experiments/mlruns/1/c855b42bc7a64d658ec02ed45b52e37b/artifacts
+end_time: 1694765152521
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c855b42bc7a64d658ec02ed45b52e37b
+run_name: Gradient Boosting Regressor
+run_uuid: c855b42bc7a64d658ec02ed45b52e37b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694765152301
+status: 3
+tags: []
+user_id: ambreen.hanif

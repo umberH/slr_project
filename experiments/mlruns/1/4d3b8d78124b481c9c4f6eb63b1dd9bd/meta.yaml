@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ambreen.hanif/Github/slr_project/experiments/mlruns/1/4d3b8d78124b481c9c4f6eb63b1dd9bd/artifacts
+end_time: 1694765158063
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d3b8d78124b481c9c4f6eb63b1dd9bd
+run_name: Least Angle Regression
+run_uuid: 4d3b8d78124b481c9c4f6eb63b1dd9bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694765157814
+status: 3
+tags: []
+user_id: ambreen.hanif

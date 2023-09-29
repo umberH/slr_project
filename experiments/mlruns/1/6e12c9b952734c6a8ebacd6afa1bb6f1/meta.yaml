@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ambreen.hanif/Github/slr_project/experiments/mlruns/1/6e12c9b952734c6a8ebacd6afa1bb6f1/artifacts
+end_time: 1694765151417
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e12c9b952734c6a8ebacd6afa1bb6f1
+run_name: CatBoost Regressor
+run_uuid: 6e12c9b952734c6a8ebacd6afa1bb6f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694765150811
+status: 3
+tags: []
+user_id: ambreen.hanif

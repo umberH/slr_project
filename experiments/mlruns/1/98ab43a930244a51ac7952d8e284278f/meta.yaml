@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ambreen.hanif/Github/slr_project/experiments/mlruns/1/98ab43a930244a51ac7952d8e284278f/artifacts
+end_time: 1694765153869
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98ab43a930244a51ac7952d8e284278f
+run_name: AdaBoost Regressor
+run_uuid: 98ab43a930244a51ac7952d8e284278f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694765153664
+status: 3
+tags: []
+user_id: ambreen.hanif

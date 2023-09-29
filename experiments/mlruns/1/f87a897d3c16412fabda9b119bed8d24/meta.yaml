@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ambreen.hanif/Github/slr_project/experiments/mlruns/1/f87a897d3c16412fabda9b119bed8d24/artifacts
+end_time: 1694765155219
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f87a897d3c16412fabda9b119bed8d24
+run_name: Orthogonal Matching Pursuit
+run_uuid: f87a897d3c16412fabda9b119bed8d24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694765155031
+status: 3
+tags: []
+user_id: ambreen.hanif

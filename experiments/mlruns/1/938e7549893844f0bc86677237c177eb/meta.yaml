@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ambreen.hanif/Github/slr_project/experiments/mlruns/1/938e7549893844f0bc86677237c177eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 938e7549893844f0bc86677237c177eb
+run_name: Session Initialized 4761
+run_uuid: 938e7549893844f0bc86677237c177eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694765079500
+status: 1
+tags: []
+user_id: ambreen.hanif

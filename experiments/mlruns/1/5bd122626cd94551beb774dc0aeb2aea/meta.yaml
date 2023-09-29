@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ambreen.hanif/Github/slr_project/experiments/mlruns/1/5bd122626cd94551beb774dc0aeb2aea/artifacts
+end_time: 1694765156187
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5bd122626cd94551beb774dc0aeb2aea
+run_name: Lasso Regression
+run_uuid: 5bd122626cd94551beb774dc0aeb2aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694765155979
+status: 3
+tags: []
+user_id: ambreen.hanif

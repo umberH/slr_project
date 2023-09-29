@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ambreen.hanif/Github/slr_project/experiments/mlruns/1/ab477718689d4ac5b1c115aeb18ee261/artifacts
+end_time: 1694765153542
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab477718689d4ac5b1c115aeb18ee261
+run_name: Decision Tree Regressor
+run_uuid: ab477718689d4ac5b1c115aeb18ee261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694765153353
+status: 3
+tags: []
+user_id: ambreen.hanif
